@@ -1,3 +1,4 @@
 github으로 commit할거예요~
 원격 저장소에서 수정했어요! 
 이제 다시 local 저장소로 pull해볼까요?
+다시 local 저장소에서 수정후 원격저장소로 push해볼게요.
